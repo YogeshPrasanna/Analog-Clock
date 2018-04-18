@@ -1,7 +1,7 @@
 body {
-    background: url('https://static.pexels.com/photos/201302/pexels-photo-201302.jpeg');
+    background: url("https://s25.postimg.cc/odmksng27/bull.jpg");
     background-size: cover;
-    font-family: 'Baloo Thambi', cursive;
+    font-family: "Baloo Thambi", cursive;
 }
 
 .clock-area {
@@ -32,7 +32,7 @@ body {
 
 .hand {
     width: 45%;
-    background: #EFEFEF;
+    background: #efefef;
     height: 6px;
     position: absolute;
     top: 50%;
@@ -49,12 +49,12 @@ body {
 
 p {
     margin: 0;
-    color: #EFEFEF;
+    color: #efefef;
 }
 
 .quote-line1 {
     font-size: 40px;
-    color: #EFEFEF;
+    color: #efefef;
 }
 
 .quote-line2 {
@@ -77,7 +77,7 @@ p {
     bottom: 0;
     left: 0;
     width: 100%;
-    background: rgba(255, 255, 255, 0.1) none repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
     color: #4fe54d;
     font-family: "PT Sans", sans-serif;
     font-size: 15px;
